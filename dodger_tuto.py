@@ -6,10 +6,7 @@ titre :  {__title__}
 auteur : {__author__}
 date :   {__date__}
 
-Module de combat en mode texte avec quelques fonctionnalités
-
-Version première :
-le type renvoyé par `joueur` est un `dict`
+Simple jeu de reflexe où il faut éviter des ennemis qui descendent l'écran
 '''
 __title__ = 'Tutoriel dodger'
 __author__ = 'qkzk'
