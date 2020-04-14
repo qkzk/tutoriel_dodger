@@ -30,5 +30,5 @@ Ces améliorations sont laissées au soin du lecteur.
 
 ## repl.it
 
-* [étape 0](https://repl.it/@konieczko/dodger)
-* [étape finale]()
+* [étape 0](https://repl.it/@konieczko/dodgerdebut)
+* [étape finale](https://repl.it/@konieczko/dodgerfin)
